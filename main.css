@@ -1,0 +1,162 @@
+html {
+    background-color: #0C0032;
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: #0C0032;
+}
+.nav-item {
+    font-size: large;
+}
+.navbar-brand {
+    font-size: large;
+    color: white;
+}
+.navlink {
+    color: white ;
+}
+#basic {
+    text-align: center;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    margin: 1.75% 1% 1% 1%;
+}
+#infoBox {
+    margin: 0% 18% 0% 18%;
+}
+#infoBox > p {
+    font-size: medium;
+    display: block;
+    color: white;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+div#carouselExampleIndicators.carousel.slide {
+    margin-left: 17%;
+}
+.carousel-indicators {
+    margin-left: 11%;
+}
+.carousel-control-prev {
+    justify-content: left;
+}
+.carousel-control-next {
+    margin-right: 16.5%;
+}
+.carousel-indicators {
+    margin-right: 29%;
+}
+footer#about{
+    margin-top: 50%;
+    background-color: #282828;
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+footer#work {
+    margin-top: 48%;
+    background-color: #282828;
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+footer#home{
+    background-color: #282828;
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+div#footer {
+    background-color: #282828;
+}
+#footerList {
+    list-style-type: none;
+}
+div.infoAbout {
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    background-color: #190061;
+    width: 43.75rem;
+    height: 19.75rem;
+}
+#expirence {
+   float: left;
+   margin-left: 2%;
+}
+#other {
+    float: left;
+    margin-left: 2%;
+}
+#learn {
+    float: right;
+    margin-right: 2%;
+}
+#softwares {
+    align-items: center;
+    float: right;
+    margin-right: 2%;
+}
+#softwareHead {
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px black;
+}
+.bg-body-custom {
+    background-color: #282828;
+    color: white;
+}
+.cardCool {
+    background-color: #190061;
+    width: 29.188rem;
+    height: 20.5rem;
+}
+#cardOne {
+    float: left;
+    margin-left: 1.75%;
+    margin-top: 1%;
+}
+#cardTwo {
+    float: left;
+    margin-right: .75%;
+    margin-left: .75%;
+    margin-top: 1%;
+}
+#cardThree {
+    float: right;
+    margin-right: 1.75%;
+    margin-top: 1%;
+}
+#cardFour {
+    float: left;
+    margin-left: 1.75%;
+    margin-top: 1%;
+}
+#cardFive {
+    float: left;
+    margin-right: .75%;
+    margin-left: .75%;
+    margin-top: 1%;
+}
+
+#cardSix {
+    float: right;
+    margin-right: 1.75%;
+    margin-top: 1%;
+}
+.card-text {
+    text-align: center;
+}
+.accordion-body {
+    background-color: #282828;
+    color: white;
+}
+.accordion-button {
+    background-color: #282828;
+    color: white;
+}
+.card-body, .card {
+    background-color: #282828;
+    color: white;
+    font-size: small;
+}
