@@ -49,6 +49,7 @@ div#carouselExampleIndicators.carousel.slide {
 }
 footer#about{
     margin-top: 50%;
+    width: 100%;
     background-color: #282828;
     color: white;
     font-size: small;
@@ -62,6 +63,7 @@ footer#work {
     text-align: center;
 }
 footer#home{
+    width: 100%;
     background-color: #282828;
     color: white;
     font-size: small;
