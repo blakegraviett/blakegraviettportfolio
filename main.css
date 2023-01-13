@@ -53,6 +53,7 @@ footer#about{
     width: 100%;
     background-color: #282828;
     color: white;
+    font-family: 'Permanent Marker', cursive;
     font-size: small;
     text-align: center;
 }
@@ -60,6 +61,7 @@ footer#work {
     margin-top: 48%;
     background-color: #282828;
     color: white;
+    font-family: 'Permanent Marker', cursive;
     font-size: small;
     text-align: center;
 }
@@ -67,6 +69,7 @@ footer#home{
     width: 100%;
     background-color: #282828;
     color: white;
+    font-family: 'Permanent Marker', cursive;
     font-size: small;
     text-align: center;
 }
@@ -108,6 +111,7 @@ div.infoAbout {
 .bg-body-custom {
     background-color: #282828;
     color: white;
+    font-family: 'Permanent Marker', cursive;
 }
 .cardCool {
     background-color: #190061;
@@ -161,6 +165,7 @@ div.infoAbout {
 .card-body, .card {
     background-color: #282828;
     color: white;
+    font-family: 'Permanent Marker', cursive;
     font-size: small;
 }
 #profile {
@@ -168,5 +173,6 @@ div.infoAbout {
     width: 10%;
     height: 10%;
     float: left;
-    margin-top: 1%;
+    margin-top: 2%;
+    margin-left: 2%;
 }
