@@ -16,25 +16,28 @@ body {
 .navlink {
     color: white ;
 }
+#navbarUp{
+    width: 100%;
+}
 #basic {
     text-align: center;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
     margin-top: 1%;
-    margin-right: 10%;
+    margin-right: 8%;
 }
 #infoBox {
     margin: 0% 20% 0% 20%;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
 }
 #infoBox > p {
     font-size: large;
     display: block;
     color: white;
     text-align: center;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
 }
-div#carouselExampleIndicators.carousel.slide {
+/* div#carouselExampleIndicators.carousel.slide {
     margin-left: 17%;
 }
 .carousel-indicators {
@@ -45,67 +48,60 @@ div#carouselExampleIndicators.carousel.slide {
 }
 .carousel-control-next {
     margin-right: 16.5%;
-}
+} */
 .carousel-indicators {
-    margin-right: 29%;
+    margin-left: 18%;
 }
 footer#about{
-    margin-top: 50%;
     width: 100%;
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
     font-size: small;
     text-align: center;
     margin-top: auto;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
 }
 footer#work {
-    margin-top: 48%;
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
     font-size: small;
     text-align: center;
+    width:100%;
+    bottom: 0px;
 }
 footer#home{
     width: 100%;
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
     font-size: small;
     text-align: center;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
 }
 div#footer {
-    background-color: #282828;
+    background-color: #857878;
 }
 #footerList {
     list-style-type: none;
 }
 div.infoAbout {
-    margin-top: 1.5%;
+    margin-top: 3%;
     margin-bottom: 1.5%;
+    margin-left: 2%;
     background-color: #190061;
-    width: 43.75rem;
-    height: 19.75rem;
 }
 #expirence {
-   float: left;
    margin-left: 2%;
 }
 #other {
-    float: left;
-    margin-left: 2%;
+    margin-top: 2%;
 }
 #learn {
-    float: right;
     margin-right: 2%;
 }
 #softwares {
     align-items: center;
-    float: right;
-    margin-right: 2%;
+    /* margin-right: 2%; */
 }
 #softwareHead {
     color: white;
@@ -115,43 +111,39 @@ div.infoAbout {
 .bg-body-custom {
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
 }
 .cardCool {
-    background-color: #190061;
-    width: 29.188rem;
-    height: 20.5rem;
+    margin-top: 5%;
+    border-radius: 2%;
+    height: 110%;
+    width: 88%;
+    background-color: black;
 }
 #cardOne {
-    float: left;
     margin-left: 1.75%;
     margin-top: 1%;
 }
 #cardTwo {
-    float: left;
     margin-right: .75%;
     margin-left: .75%;
     margin-top: 1%;
 }
 #cardThree {
-    float: right;
     margin-right: 2.25%;
     margin-top: 1%;
 }
 #cardFour {
-    float: left;
     margin-left: 1.75%;
     margin-top: 1%;
 }
 #cardFive {
-    float: left;
     margin-right: .75%;
     margin-left: .75%;
     margin-top: 1%;
 }
 
 #cardSix {
-    float: right;
     margin-right: 2.25%;
     margin-top: 1%;
 }
@@ -169,13 +161,22 @@ div.infoAbout {
 .card-body, .card {
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size: small;
 }
 #profile {
     border-radius: 50%;
     width: 10%;
     height: 10%;
     float: left;
-    margin-top: 2%;
-    margin-left: 2%;
+    margin-top: 1%;
 }
+.navbar-toggler-icon, .navbar-toggler {
+    background-color: white;
+}
+video {
+    min-width: 20%;
+    max-width: 100%;
+  }
+
+
