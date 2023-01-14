@@ -22,20 +22,20 @@ body {
 #basic {
     text-align: center;
     color: white;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
     margin-top: 1%;
     margin-right: 8%;
 }
 #infoBox {
     margin: 0% 20% 0% 20%;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
 }
 #infoBox > p {
     font-size: large;
     display: block;
     color: white;
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
 }
 /* div#carouselExampleIndicators.carousel.slide {
     margin-left: 17%;
@@ -59,12 +59,12 @@ footer#about{
     font-size: small;
     text-align: center;
     margin-top: auto;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
 }
 footer#work {
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
     font-size: small;
     text-align: center;
     width:100%;
@@ -76,7 +76,7 @@ footer#home{
     color: white;
     font-size: small;
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
 }
 div#footer {
     background-color: #857878;
@@ -111,7 +111,7 @@ div.infoAbout {
 .bg-body-custom {
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
 }
 .cardCool {
     margin-top: 5%;
@@ -161,7 +161,7 @@ div.infoAbout {
 .card-body, .card {
     background-color: #282828;
     color: white;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', sans-serif;
     font-size: small;
 }
 #profile {
