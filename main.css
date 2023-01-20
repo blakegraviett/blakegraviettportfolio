@@ -87,15 +87,19 @@ div.infoAbout {
 }
 #expirence {
    margin-left: 2%;
+   border-radius: 20px;
 }
 #other {
     margin-top: 2%;
+    border-radius: 20px;
 }
 #learn {
     margin-right: 2%;
+    border-radius: 20px;
 }
 #softwares {
     align-items: center;
+    border-radius: 20px;
     /* margin-right: 2%; */
 }
 #softwareHead {
